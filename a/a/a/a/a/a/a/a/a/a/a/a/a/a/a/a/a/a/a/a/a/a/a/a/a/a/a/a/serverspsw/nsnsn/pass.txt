@@ -1,0 +1,9 @@
+5000kSubsYee
+
+
+
+// DO NOT SHARE THIS LINK
+// Lemme set up an code so u cant
+pc = "C:/Users/"
+pc.action["COPY"]
+if this is yes then pc.action["DESTROY.HARDDRIVE.emergency"]
